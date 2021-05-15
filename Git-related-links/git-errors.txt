@@ -1,0 +1,6 @@
+Unable to commit:
+github Email-id is in private state:
+Answer: Use git created no-reply email-id present at Personal Settings → Emails.
+Refer below links for complete information:
+
+https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions
